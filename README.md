@@ -6,19 +6,19 @@ Learn spoken Arabic by watching videos — and learning just the words you need 
 
 ### As a learner, I want to watch and understand interesting Arabic videos from day 1
 
-![](doc/img/us0.jpg)
+![](doc/img/us0.webp)
 
 ### As a learner, I want to learn to communicate in Arabic 
 
-![](doc/img/us1.jpg)
+![](doc/img/us1.webp)
 
 ### As a learner, I want to integrate the app into my long-term Arabic study routine
 
-![](doc/img/us2.jpg)
+![](doc/img/us2.webp)
 
 ### As a learner, I do not want to be bored or frustrated
 
-![](doc/img/us3.jpg)
+![](doc/img/us3.webp)
 
 ## Tech
 ### Tech Stack 
