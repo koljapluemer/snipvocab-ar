@@ -1,4 +1,4 @@
-I'm using supabase as a backup.
+I'm using supabase as a backend.
 Because clicking around the web UI is annoying, I gave ChatGPT the db requirements:
 
 ```
